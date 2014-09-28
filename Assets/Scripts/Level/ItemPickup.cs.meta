@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9bf48d29ed683634693d1cd1f32b67b5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_specialEffect: {instanceID: 0}
+  - m_audioOnCollect: {fileID: 8300000, guid: a3d026a6ee54a2641988b99eb7b1ef3c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

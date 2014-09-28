@@ -1,0 +1,7 @@
+Every file in this folder comes from a third party source. The link and license are listed for each:
+
+Lens Flare		https://www.assetstore.unity3d.com/en/#!/content/5	Free for demonstration purposes
+Sample Assets		https://www.assetstore.unity3d.com/en/#!/content/14474	Free for demonstration purposes
+Particles is a part of the above package
+Standard Assets		Ships with Unity					N/A
+StealthTutorial		https://www.assetstore.unity3d.com/en/#!/content/7677	Free for demonstration purposes
